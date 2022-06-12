@@ -16,7 +16,8 @@ nav li  {display: inline;}
 h2      {text-transform: capitalize;}
 .Par    {float: left; /* Обтекание картинки по левому краю */
          padding-left: 10px; /* Отступ слева */
-         padding-bottom: 10px}
+         padding-bottom: 10px;
+         width:220px; height:200px;}
 td       {
          width: 50%; /* Ширина левой колонки с рисунком */
           vertical-align: top; /* Выравнивание по верхнему краю */
@@ -24,6 +25,7 @@ td       {
 h1     {color: rgb(14, 52, 136); padding-left:10px; }
 h2     {color: rgb(204, 28, 157) ; padding-left:10px; }      
 code   {color:darkolivegreen; padding-left:10px; }
-.ing   {position:fixed; left: 250px ;}
+.ing   {position:fixed; left: 250px ; width: 50px; }
 span   {position:fixed; left: 200px ;}
 .lop   {position:fixed; left: 300px ;}
+.rop   {padding-left: 10px; }
