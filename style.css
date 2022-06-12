@@ -24,4 +24,6 @@ td       {
 h1     {color: rgb(14, 52, 136); padding-left:10px; }
 h2     {color: rgb(204, 28, 157) ; padding-left:10px; }      
 code   {color:darkolivegreen; padding-left:10px; }
-.ing   {position:fixed; left: 250px ;}/*padding-left:100px;
+.ing   {position:fixed; left: 250px ;}
+span   {position:fixed; left: 200px ;}
+.lop   {position:fixed; left: 300px ;}
