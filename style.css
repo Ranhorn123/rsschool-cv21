@@ -1,1 +1,27 @@
+*{margin: 0;padding: 5;}
+.dddd   {color: brown;}
+.ll     {color: rgb(14, 52, 136);}
+nav
+        {margin: 0px;
+        padding: 5px;
+        }
+.pad    {margin-left: 5%;
+        color: rgb(158, 12, 12);}
+nav li  {display: inline;}
 
+.li     {float: inline-start;}
+
+.right  { margin-left: 90%;float: right; }
+.top    {margin-right: 5%;  }
+h2      {text-transform: capitalize;}
+.Par    {float: left; /* Обтекание картинки по левому краю */
+         padding-left: 10px; /* Отступ слева */
+         padding-bottom: 10px}
+td       {
+         width: 50%; /* Ширина левой колонки с рисунком */
+          vertical-align: top; /* Выравнивание по верхнему краю */
+        }
+h1     {color: rgb(14, 52, 136); padding-left:10px; }
+h2     {color: rgb(204, 28, 157) ; padding-left:10px; }      
+code   {color:darkolivegreen; padding-left:10px; }
+.ing   {position:fixed; left: 250px ;}/*padding-left:100px;
